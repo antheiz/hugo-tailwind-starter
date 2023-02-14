@@ -1,0 +1,12 @@
+name = "Karokari"
+license = "MIT"
+licenselink = "https://github.com/antheiz/hugo-theme-starter/blob/master/LICENSE"
+description = "Starter code with hugo x tailwind for your Hugo site."
+homepage = "https://github.com/antheiz/hugo-theme-starter"
+tags = ["Hugo", "theme"]
+features = ["tailwind", "darkmode"]
+min_version = "0.41.0"
+
+[author]
+  name = "Theis Andatu"
+  homepage = "https://antheiz.my.id"
